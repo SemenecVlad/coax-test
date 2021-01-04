@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Hilton Garden Inn Baltimore White Marsh",
+    "price": "$135 - $193*",
+    "address": "5015 Campbell Blvd, Baltimore, MD 21236",
+    "id": "100407",
+    "cover": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/12/62/45/exterior.jpg",
+    "cityId": 1,
+    "rating": 1
+  },
+  {
+    "name": "Hotel Monaco Seattle - a Kimpton Hotel",
+    "price": "$184 - $345*",
+    "address": "1101 Fourth Avenue, Seattle, WA 98101",
+    "id": "100504",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/02/58/72/b6/hotel-monaco-seattle.jpg",
+    "cityId": 2,
+    "rating": 2
+  },
+  {
+    "name": "Warwick Seattle Hotel",
+    "price": "$129 - $228*",
+    "address": "401 Lenora Street, Seattle, WA 98121",
+    "id": "100505",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/02/39/a9/e9/warwick-seattle-hotel.jpg",
+    "cityId": 2,
+    "rating": 3
+  },
+  {
+    "name": "Hotel Seattle",
+    "price": "$96 - $118*",
+    "address": "315 Seneca St., Seattle, WA 98101",
+    "id": "100506",
+    "cover": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7d/22/7d22f3e6c0682df4f389acd30fe4e3d45large.jpg",
+    "cityId": 2,
+    "rating": 4
+  },
+  {
+    "name": "Inn at the Market",
+    "price": "$199 - $299*",
+    "address": "86 Pine St., Seattle, WA 98101",
+    "id": "100507",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/02/41/4b/99/deck-shot.jpg",
+    "cityId": 2,
+    "rating": 5
+  },
+  {
+    "name": "Kings Inn",
+    "price": "$80 - $119*",
+    "address": "2106 Fifth Ave., Seattle, WA 98121",
+    "id": "100508",
+    "cover": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/65/6565f259660c4bc983a7a3a9eb15e1d31large.jpg",
+    "cityId": 2,
+    "rating": 5
+  },
+  {
+    "name": "Ace Hotel",
+    "price": "$109 - $217*",
+    "address": "2423 First Ave., Seattle, WA 98121",
+    "id": "100509",
+    "cover": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/b1/3db181c4931ad965eb5df27a3b6e9e6d3large.jpg",
+    "cityId": 2,
+    "rating": 4
+  },
+  {
+    "name": "Crowne Plaza Seattle Downtown Area",
+    "price": "$179 - $253*",
+    "address": "1113 Sixth Avenue, Seattle, WA 98101",
+    "id": "100527",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/01/ca/96/a8/room-accommodation.jpg",
+    "cityId": 2,
+    "rating": 3
+  },
+  {
+    "name": "Inn at Queen Anne",
+    "price": "$85 - $130*",
+    "address": "505 First Ave. N, Seattle, WA 98102",
+    "id": "100537",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/02/26/65/0f/inn-at-queen-anne.jpg",
+    "cityId": 2,
+    "rating": 2
+  },
+  {
+    "name": "MarQueen Hotel",
+    "price": "$132 - $207*",
+    "address": "600 Queen Anne Ave. N., Seattle, WA 98109",
+    "id": "100540",
+    "cover": "http://media-cdn.tripadvisor.com/media/photo-s/01/cd/cb/9e/marqueen-hotel-entrance.jpg",
+    "cityId": 2,
+    "rating": 1
+  }
+]

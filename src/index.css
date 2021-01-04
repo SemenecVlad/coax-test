@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather Sans',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ant-select-selector {
+  border: none !important;
+  padding-left: 0 !important;
+}
+
+.ant-select-selection-search {
+  left: 0 !important;
+}
+
+.ant-select-selection-search input {
+  font-size: 20px !important;
+}
+
+.ant-select-selection-placeholder {
+  font-size: 20px;
+}
+
+.ant-input-number,
+.ant-input-number:hover {
+  border: none !important;
+  font-size: 20px;
+}
+
+.ant-select-focused,
+.ant-select-focused:not(.ant-select-disabled).ant-select:not(.ant-select-customize-input) .ant-select-selector,
+.ant-input-number-focused {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+input {
+  padding-left: 0 !important;
+}
+
+.ant-select-item-option-content {
+  font-size: 20px !important;
+}
+
+/* Calendar styles */
+.ant-picker-range {
+  padding-left: 0 !important;
+}
+
+.ant-picker-range-arrow {
+  display: none !important;
+}
+
+.ant-picker-panel-container {
+  box-shadow: none;
+  background-color: transparent;
+  margin-top: -5px;
+}
+
+.ant-picker-panel {
+  background-color: white !important;
+  border: 1px solid rgba(128, 128, 128, 0.22) !important;
+  border-radius: 6px !important;
+  margin: 5px;
+  padding: 20px;
+}
+
+.ant-picker,
+.ant-picker:hover,
+.ant-picker-focused {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.ant-picker-input input {
+  font-size: 20px !important;
+}

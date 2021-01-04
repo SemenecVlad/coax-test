@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ALL",
+    "name": "ALL"
+  },
+  {
+    "id": 1,
+    "name": "Baltimore"
+  },
+  {
+    "id": 2,
+    "name": "Seattle"
+  }
+]
